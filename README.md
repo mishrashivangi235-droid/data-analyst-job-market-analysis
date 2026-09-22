@@ -163,7 +163,7 @@ The analysis produced the following key findings:
 ### 1. Clone the repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone https://github.com/mishrashivangi235-droid/data-analyst-job-market-analysis.git
 cd data-analyst-job-market-analysis
 ```
 
